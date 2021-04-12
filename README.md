@@ -56,4 +56,10 @@ According to the repo:
 
 > GitCDN works by creating a short-cached (~2 hours cache time) lookup of the latest commit of the specified file, then redirecting you to a long-cached (~1 week cache time on edge servers, and ~1 year cache time on primary servers) version of that file.
 
-This means that GitCDN will lag a bit behind any commits you make, so be careful to make any necessary updates far in advance of when you'll actually need to use the updated file.
+This means that GitCDN will lag a bit behind any commits you make, so be careful to make any necessary updates far in advance of when you'll actually need to use the updated file. I suggest designing themes on your local machine using relative filepaths, then creating GitCDN links only when you're finished.
+
+## Credits
+
+- [Marp](https://github.com/marp-team)
+- [HighlightJS](https://github.com/highlightjs/highlight.js)
+- [GitCDN](https://github.com/schme16/gitcdn.xyz)
