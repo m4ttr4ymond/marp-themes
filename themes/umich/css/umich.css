@@ -9,7 +9,7 @@
  * * @auto-scaling true
  * * @size 4:3 960px 720px */
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700&display=swap");
-@import url("https://gitcdn.link/repo/highlightjs/highlight.js/main/src/styles/agate.css");
+@import url("https://gitcdn.link/repo/m4ttr4ymond/marp-themes/master/global_assets/highlight/agate.css");
 svg[data-marp-fitting=svg] {
   max-height: 580px;
 }
@@ -229,7 +229,7 @@ section.umich table tbody > tr:nth-child(odd) th {
   background: rgba(255, 255, 255, 0.1);
 }
 section.title {
-  background-image: url("https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png");
+  background-image: url("https://gitcdn.link/repo/m4ttr4ymond/marp-themes/master/themes/umich/assets/bbbb_banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: #ffffff;
