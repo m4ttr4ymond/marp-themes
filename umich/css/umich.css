@@ -1,13 +1,13 @@
 @charset "UTF-8";
 /*!
- * Marp / Marpit Gaia theme.
- *
- * @theme umich
- * @author Yuki Hattori
- *
- * @auto-scaling true
- * @size 4:3 960px 720px
- */
+ * * Based on the Marp / Marpit Gaia theme.
+ * *
+ * * @theme umich
+ * * @author Matt Raymond
+ * * Based on a theme by Yuki Hattori
+ * *
+ * * @auto-scaling true
+ * * @size 4:3 960px 720px */
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700&display=swap");
 @import url("https://gitcdn.link/repo/highlightjs/highlight.js/main/src/styles/agate.css");
 svg[data-marp-fitting=svg] {
